@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureServer", "SecureServer\SecureServer.csproj", "{6BF8972B-C7CE-4BC3-9AB0-636101AB1B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureClient", "SecureClient\SecureClient.csproj", "{7D66E587-B1FC-4F9E-8710-B293389379E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF8972B-C7CE-4BC3-9AB0-636101AB1B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF8972B-C7CE-4BC3-9AB0-636101AB1B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF8972B-C7CE-4BC3-9AB0-636101AB1B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF8972B-C7CE-4BC3-9AB0-636101AB1B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D66E587-B1FC-4F9E-8710-B293389379E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D66E587-B1FC-4F9E-8710-B293389379E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D66E587-B1FC-4F9E-8710-B293389379E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D66E587-B1FC-4F9E-8710-B293389379E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

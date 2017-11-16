@@ -1,0 +1,8 @@
+C:\Users\Азат\Desktop\SecureServer\SecureServer\bin\Debug\SecureServer.exe
+C:\Users\Азат\Desktop\SecureServer\SecureServer\bin\Debug\SecureServer.pdb
+C:\Users\Азат\Desktop\SecureServer\SecureServer\obj\Debug\SecureServer.csprojResolveAssemblyReference.cache
+C:\Users\Азат\Desktop\SecureServer\SecureServer\obj\Debug\SecureServer.exe
+C:\Users\Азат\Desktop\SecureServer\SecureServer\obj\Debug\SecureServer.pdb
+C:\Users\Азат\Desktop\SecureServer\SecureServer\bin\Debug\SecureServer.exe.config
+C:\Users\Азат\Desktop\SecureServer\SecureServer\bin\Debug\EntityFramework.dll
+C:\Users\Азат\Desktop\SecureServer\SecureServer\bin\Debug\EntityFramework.xml
